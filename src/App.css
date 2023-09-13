@@ -1,0 +1,41 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #fcc8c8;
+  display: flex;
+  place-items: center;
+}
+
+.truck-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 2.8em;              
+  color: #4a4a4a;              
+  margin-bottom: 1rem;           
+  padding: 0.5rem 1rem;           
+  border-radius: 5px;            
+  background-color: #ffebcd;    
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  text-transform: uppercase;     
+  letter-spacing: 2px;         
+}
+
+h1:hover {
+  transform: scale(1.05);        
+  transition: transform 0.3s, background-color 0.3s; 
+}
+
