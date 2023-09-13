@@ -4,7 +4,7 @@ Submitted by: **Yanwen Chen**
 
 This web app: **insert description**
 
-Time spent: **2.5** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -26,10 +26,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![ezgif com-video-to-gif](https://github.com/AdeDeepFishing/FoodTruckFavorites/assets/91364746/2f84a197-6865-471d-aeaf-850d9644bf12)
+
+![ezgif com-video-to-gif](https://github.com/AdeDeepFishing/FoodTruckFavorites/assets/91364746/12756981-e29c-46fd-9ce2-b0336c189c2a)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with https://ezgif.com/video-to-gif.
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
