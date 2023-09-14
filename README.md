@@ -2,7 +2,7 @@
 
 Submitted by: **Yanwen Chen**
 
-This web app: **insert description**
+This web app: FoodTruckFavorites showcases the best local food trucks, offering a tantalizing glimpse into their signature dishes and unique stories.
 
 Time spent: **3** hours spent in total
 
