@@ -28,7 +28,8 @@ Here's a walkthrough of implemented required features:
 
 ![ezgif com-video-to-gif](https://github.com/AdeDeepFishing/FoodTruckFavorites/assets/91364746/2f84a197-6865-471d-aeaf-850d9644bf12)
 
-![ezgif com-video-to-gif](https://github.com/AdeDeepFishing/FoodTruckFavorites/assets/91364746/12756981-e29c-46fd-9ce2-b0336c189c2a)
+![ezgif com-video-to-gif](https://github.com/AdeDeepFishing/FoodTruckFavorites/assets/91364746/48e09cbd-d7b5-495e-8f3b-06348125017f)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with https://ezgif.com/video-to-gif.
